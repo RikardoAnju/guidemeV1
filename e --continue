@@ -1,0 +1,18 @@
+* [33m000064a[m[33m ([m[1;36mHEAD[m[33m)[m Add password
+* [33m7b42742[m[33m ([m[1;31morigin/main[m[33m)[m identitas tim
+[31m|[m * [33ma944c45[m[33m ([m[1;32mmain[m[33m)[m add backend for reset password
+[31m|[m[31m/[m  
+* [33m2b71bad[m Perbaikan tampilan halaman home
+* [33m1359bd3[m Sistem login && registrasi
+* [33me64f1d9[m first commit
+* [33mdc0dac7[m Push
+* [33m36fb717[m env fix
+* [33me74ca0f[m Halaman home
+* [33me5e0c26[m Hapus file .env dari Git tracking
+* [33mc9ceb98[m Simpan perubahan sebelum rebase
+* [33m27b5475[m Halaman home
+* [33ma8c2865[m New
+* [33m7f83997[m Test
+* [33m9c0a3a9[m SetUp data base Firebase & Brevo
+* [33m477374b[m New
+* [33m0c0e2d6[m Initial commit

@@ -1,0 +1,53 @@
+{
+  "name": "payment-backend-ngrok",
+  "version": "1.1.0",
+  "description": "Payment backend with Midtrans integration for ngrok tunnel deployment",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "build": "echo 'No build step required'",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'No linting configured'",
+    "tunnel": "node server.js",
+    "ngrok": "ngrok http 3000"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ngrok": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "keywords": [
+    "payment",
+    "midtrans",
+    "firebase",
+    "ngrok",
+    "tunnel",
+    "mailersend",
+    "backend",
+    "api",
+    "nodejs",
+    "express",
+    "webhook"
+  ],
+  "author": "RikardoAnju",
+  "license": "MIT",
+  "config": {
+    "platform": "ngrok",
+    "ngrok": {
+      "port": 3000,
+      "region": "ap"
+    }
+  }
+}

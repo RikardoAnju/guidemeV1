@@ -1,0 +1,3 @@
+[submodule "Guideme"]
+	path = Guideme
+	url = https://github.com/RikardoAnju/guidemeV1.git

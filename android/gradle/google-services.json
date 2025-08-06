@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216133782332",
+    "project_id": "guide-me-ce20f",
+    "storage_bucket": "guide-me-ce20f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216133782332:android:8d1e90c613cea4e7ddec39",
+        "android_client_info": {
+          "package_name": "Guideme.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV_5f7jZ1asUEd7O3Xe6twmtrpozdyss4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
